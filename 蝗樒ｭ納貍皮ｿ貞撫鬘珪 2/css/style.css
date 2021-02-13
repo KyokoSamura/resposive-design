@@ -530,8 +530,11 @@ body {
 
 .catchcopy {
   top: 30%;
-  font-size: 500%;
+  font-size: 600%;
+  left: 0%;
   text-align: center;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 .news {
   width: 100%;
@@ -599,12 +602,19 @@ body {
   margin: 0 auto;
 }
 
-.faq {
-  width: 80%;
+.faq-title {
+  padding-left: 25%;
+  padding-right: 5%;
+}
+.faq-title-jp {
+  width: 50%;
+  padding-left: 0%;
+  margin-left: 0%;
 }
 
+
 .top-footer .header-logo {
-  margin-left: 30%;
+  margin-left: 45%;
 }
 
 }
